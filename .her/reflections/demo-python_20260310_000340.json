@@ -1,0 +1,17 @@
+{
+  "id": "demo-python_20260310_000340",
+  "timestamp": "2026-03-10T00:03:40.966822",
+  "phase": "post_task",
+  "task_id": "demo-python",
+  "task_description": "Create a simple data validator function",
+  "what_happened": "Created a data validator with type checking",
+  "why_it_happened": "",
+  "what_i_learned": "Using Pydantic simplifies validation logic significantly",
+  "what_to_do_differently": "",
+  "confidence_before": 0.85,
+  "confidence_after": 0.85,
+  "deviations_from_plan": [
+    "Added email validation which wasn't in original plan"
+  ],
+  "emotions": null
+}

@@ -1,0 +1,5 @@
+hooks:
+  - name: pre_commit_test
+    event: pre_git_commit
+    command: "pytest tests/ -q"
+    enabled: true

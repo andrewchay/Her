@@ -1,0 +1,19 @@
+{
+  "session_id": "her_20260310_000340",
+  "started_at": "2026-03-10T00:03:40.774337",
+  "task_id": "demo-simple",
+  "task_description": "Fix a simple typo",
+  "phase": "planning",
+  "phase_start_time": 1773072221.224648,
+  "task_start_time": 1773072221.224648,
+  "confidence_at_start": 0.75,
+  "current_confidence": 0.75,
+  "tools_used": {
+    "ReadFile": 1,
+    "WriteFile": 1
+  },
+  "errors_encountered": 3,
+  "help_seeking_events": 2,
+  "pre_task_reflection": null,
+  "post_task_reflection": "demo-python_20260310_000340"
+}

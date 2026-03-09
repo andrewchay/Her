@@ -1,0 +1,2 @@
+{"timestamp": "2026-03-10T00:03:41.137406", "context": {"task_type": "code_writing", "confidence": 0.3, "time_spent": 1.1086463928222656e-05}, "decision": "WEB_SEARCH", "reason": "Unknown technology with low confidence (30%)"}
+{"timestamp": "2026-03-10T00:03:41.223584", "context": {"task_type": "debugging", "confidence": 0.75, "time_spent": 1.5834967295328777e-05}, "decision": "ASK_USER", "reason": "3 consecutive errors - pattern suggests need for guidance"}

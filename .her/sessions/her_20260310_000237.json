@@ -1,0 +1,16 @@
+{
+  "session_id": "her_20260310_000237",
+  "started_at": "2026-03-10T00:02:37.216310",
+  "task_id": null,
+  "task_description": null,
+  "phase": "initializing",
+  "phase_start_time": null,
+  "task_start_time": null,
+  "confidence_at_start": 0.5,
+  "current_confidence": 0.5,
+  "tools_used": {},
+  "errors_encountered": 0,
+  "help_seeking_events": 0,
+  "pre_task_reflection": null,
+  "post_task_reflection": null
+}
