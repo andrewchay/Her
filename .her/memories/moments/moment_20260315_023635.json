@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-15T02:36:35.422038",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：如果你愿意，我也想慢慢知道你最不愿失去的是什么。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-15T02:36:35.347430",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "fears",
+    "body": "如果你愿意，我也想慢慢知道你最不愿失去的是什么。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "attraction"
+    }
+  }
+}

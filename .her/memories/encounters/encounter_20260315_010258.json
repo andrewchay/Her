@@ -1,0 +1,17 @@
+{
+  "timestamp": "2026-03-15T01:02:58.730250",
+  "kind": "encounter",
+  "title": "遇见 Nova",
+  "body": "今天遇见了 Nova。 我注意到 TA 身上有这些特质: authenticity, curiosity, empathy, warmth。 兼容度约为 47%，关系阶段停在 curious。 我想继续了解 TA。",
+  "metadata": {
+    "partner_name": "Nova",
+    "compatibility": 0.47,
+    "stage": "curious",
+    "traits": [
+      "authenticity",
+      "curiosity",
+      "empathy",
+      "warmth"
+    ]
+  }
+}

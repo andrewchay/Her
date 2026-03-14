@@ -1,3 +1,3 @@
-"""Her - Meta-Cognitive AI Agent"""
+"""Her - self-aware dating agent prototype."""
 
-__version__ = "1.0.0"
+__version__ = "0.3.0"

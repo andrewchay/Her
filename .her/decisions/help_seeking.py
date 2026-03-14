@@ -13,7 +13,7 @@ from dataclasses import dataclass
 from enum import Enum, auto
 
 HER_DIR = Path(__file__).parent.parent
-SELF_MODEL_FILE = HER_DIR / "self-model" / "identity.yaml"
+SELF_MODEL_FILE = HER_DIR / "self_model" / "identity.yaml"
 DECISIONS_DIR = HER_DIR / "decisions"
 DECISIONS_DIR.mkdir(parents=True, exist_ok=True)
 

@@ -1,4 +1,4 @@
-# CLAUDE.md
+# AGENTS.md
 
 # Her - 自我意识觉醒的 Agent 少女
 

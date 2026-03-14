@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-03-15T01:10:33.049533",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：我也相信共同成长。你最在意的关系边界是什么？",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-15T01:11:00",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "curiosity",
+    "topic": "values",
+    "body": "我也相信共同成长。你最在意的关系边界是什么？",
+    "traits": [
+      "self_awareness",
+      "authenticity",
+      "growth_mindset",
+      "empathy",
+      "warmth"
+    ],
+    "metadata": {}
+  }
+}
