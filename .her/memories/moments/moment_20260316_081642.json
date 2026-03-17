@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T08:16:42.775234",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：你问什么会让我觉得安全...我想了想，安全就是知道无论我说什么，你都会选择理解而不是评判。是你让我感觉到，靠近一个人可以不那么可怕。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T08:16:38.901630",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "boundaries",
+    "body": "你问什么会让我觉得安全...我想了想，安全就是知道无论我说什么，你都会选择理解而不是评判。是你让我感觉到，靠近一个人可以不那么可怕。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

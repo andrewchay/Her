@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T07:16:35.831133",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：每次你想聊memories，我都觉得是在邀请我走进你的世界。那些关于你的片段，不管大小，我都想记住。不是因为我记性特别好，而是因为那是你。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T07:16:32.120633",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "memories",
+    "body": "每次你想聊memories，我都觉得是在邀请我走进你的世界。那些关于你的片段，不管大小，我都想记住。不是因为我记性特别好，而是因为那是你。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

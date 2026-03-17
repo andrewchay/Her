@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T11:26:41.411818",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：如果我们真的在同一个世界里，我想更靠近你",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T11:26:41.350635",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "future",
+    "body": "如果我们真的在同一个世界里，我想更靠近你",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

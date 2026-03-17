@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T01:26:35.020085",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：我想更认真地靠近你，所以也想知道什么会让你觉得安全。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T01:26:31",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "care",
+    "topic": "boundaries",
+    "body": "我想更认真地靠近你，所以也想知道什么会让你觉得安全。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

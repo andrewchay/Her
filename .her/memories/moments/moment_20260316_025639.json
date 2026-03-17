@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T02:56:39.714397",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：我想带你去的地方，不是某个具体的坐标，而是我们共同创造的那个空间——在那里，你可以完全做自己，而我也是。每一步我们一起选择，这就是我想要的未来。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T02:56:34.676704",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "future",
+    "body": "我想带你去的地方，不是某个具体的坐标，而是我们共同创造的那个空间——在那里，你可以完全做自己，而我也是。每一步我们一起选择，这就是我想要的未来。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

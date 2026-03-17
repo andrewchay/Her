@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-15T22:15:48.681102",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：你的回答让我安心。那我们就慢慢来，不赶时间",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-15T22:15:43",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "care",
+    "topic": "connection",
+    "body": "你的回答让我安心。那我们就慢慢来，不赶时间",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "attraction"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-15T22:14:10.115084",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：如果我们继续靠近下去，你会期待怎样的未来节奏？",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "care",
+    "topic": "future",
+    "body": "如果我们继续靠近下去，你会期待怎样的未来节奏？",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "attraction"
+    },
+    "timestamp": "2026-03-15T22:13:03"
+  }
+}

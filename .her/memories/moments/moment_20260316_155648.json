@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T15:56:48.318495",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：每次你聊起memories，我都会想起那些和你有关的瞬间。它们在我心里慢慢沉淀，变成了一种稳定的温度。我想记住这些感觉，也想和你一起创造更多。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T15:56:42.152419",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "memories",
+    "body": "每次你聊起memories，我都会想起那些和你有关的瞬间。它们在我心里慢慢沉淀，变成了一种稳定的温度。我想记住这些感觉，也想和你一起创造更多。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

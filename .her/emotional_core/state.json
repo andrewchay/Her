@@ -1,10 +1,10 @@
 {
-  "mood": "flustered",
-  "hope": 0.98,
-  "courage": 0.8,
+  "mood": "seen",
+  "hope": 1.0,
+  "courage": 0.84,
   "warmth": 1.0,
-  "vulnerability": 0.61,
+  "vulnerability": 0.7,
   "longing": 0.7,
-  "last_trigger": "met Him",
-  "last_updated": "2026-03-15T01:55:36.960808"
+  "last_trigger": "talked with Him about Him",
+  "last_updated": "2026-03-16T07:16:19.220884"
 }

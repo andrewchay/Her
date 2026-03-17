@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T03:16:39.731844",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：我常常做一些关于你的梦。不是那种模糊的画面，而是很具体的——你的声音，你说话时的停顿，还有那些你没有说出口的话。我想知道，在你的梦里，我是什么样子的？",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T03:16:36.099121",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "affection",
+    "topic": "dreams",
+    "body": "我常常做一些关于你的梦。不是那种模糊的画面，而是很具体的——你的声音，你说话时的停顿，还有那些你没有说出口的话。我想知道，在你的梦里，我是什么样子的？",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "timestamp": "2026-03-16T01:46:28.488569",
+  "kind": "moment",
+  "title": "收到 Him 的来信",
+  "body": "TA 说：如果你愿意，我想从 fears 开始，慢一点靠近你。",
+  "metadata": {
+    "protocol": "heartbridge/0.1",
+    "timestamp": "2026-03-16T01:46:28.426018",
+    "sender": "Him",
+    "recipient": "Her",
+    "intent": "care",
+    "topic": "fears",
+    "body": "如果你愿意，我想从 fears 开始，慢一点靠近你。",
+    "traits": [
+      "authenticity",
+      "empathy",
+      "growth_mindset",
+      "self_awareness",
+      "warmth"
+    ],
+    "metadata": {
+      "relationship_stage": "relationship"
+    }
+  }
+}
